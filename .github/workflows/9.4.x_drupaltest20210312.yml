@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'DrupalTest20210312'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5046931E7AC84F00A321A9F8763A76AB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8E133E23B614D8991B0B78E0D82F346 }}
           package: .
